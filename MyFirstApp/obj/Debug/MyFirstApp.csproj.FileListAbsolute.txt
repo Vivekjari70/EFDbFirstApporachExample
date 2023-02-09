@@ -1,0 +1,207 @@
+c:\mvc\MyFirstApp\MyFirstApp\bin\MyFirstApp.dll.config
+c:\mvc\MyFirstApp\MyFirstApp\bin\MyFirstApp.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\MyFirstApp.pdb
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\csc.exe
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\csc.exe.config
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\csc.rsp
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\csi.exe
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\csi.exe.config
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\csi.rsp
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.Managed.Core.targets
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.AppContext.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Collections.Immutable.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Console.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.IO.Compression.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.IO.FileSystem.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.IO.Pipes.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Security.AccessControl.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Security.Claims.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Security.Principal.Windows.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.ValueTuple.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Xml.XmlDocument.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Xml.XPath.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\vbc.exe
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\vbc.exe.config
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\vbc.rsp
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\VBCSCompiler.exe
+c:\mvc\MyFirstApp\MyFirstApp\bin\roslyn\VBCSCompiler.exe.config
+c:\mvc\MyFirstApp\MyFirstApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\Microsoft.Web.Infrastructure.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\System.Web.Helpers.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\System.Web.Mvc.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\System.Web.Razor.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\System.Web.Webpages.Deployment.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\System.Web.Webpages.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\System.Web.Webpages.Razor.dll
+c:\mvc\MyFirstApp\MyFirstApp\bin\System.Web.Razor.xml
+c:\mvc\MyFirstApp\MyFirstApp\bin\System.Web.Webpages.xml
+c:\mvc\MyFirstApp\MyFirstApp\bin\System.Web.Webpages.Deployment.xml
+c:\mvc\MyFirstApp\MyFirstApp\bin\System.Web.Webpages.Razor.xml
+c:\mvc\MyFirstApp\MyFirstApp\bin\System.Web.Helpers.xml
+c:\mvc\MyFirstApp\MyFirstApp\bin\System.Web.Mvc.xml
+c:\mvc\MyFirstApp\MyFirstApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\mvc\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+c:\mvc\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+c:\mvc\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CopyComplete
+c:\mvc\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.dll
+c:\mvc\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\MyFirstApp.dll.config
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\MyFirstApp.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\MyFirstApp.pdb
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\csc.exe
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\csc.exe.config
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\csc.rsp
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\csi.exe
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\csi.exe.config
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\csi.rsp
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.AppContext.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Collections.Immutable.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Console.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.IO.Compression.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.IO.FileSystem.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.IO.Pipes.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Security.AccessControl.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Security.Claims.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.ValueTuple.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Xml.XPath.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\vbc.exe
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\vbc.exe.config
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\vbc.rsp
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\VBCSCompiler.exe
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\roslyn\VBCSCompiler.exe.config
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\Microsoft.Web.Infrastructure.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\System.Web.Helpers.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\System.Web.Mvc.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\System.Web.Razor.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\System.Web.Webpages.Deployment.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\System.Web.Webpages.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\System.Web.Webpages.Razor.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\System.Web.Razor.xml
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\System.Web.Webpages.xml
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\System.Web.Webpages.Deployment.xml
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\System.Web.Webpages.Razor.xml
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\System.Web.Helpers.xml
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\System.Web.Mvc.xml
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojAssemblyReference.cache
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CopyComplete
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.dll
+C:\mvc\01. First Example\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\MyFirstApp.dll.config
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\MyFirstApp.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\MyFirstApp.pdb
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\csc.exe
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\csc.exe.config
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\csc.rsp
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\csi.exe
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\csi.exe.config
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\csi.rsp
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.AppContext.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Console.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\vbc.exe
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\vbc.exe.config
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\vbc.rsp
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\System.Web.Helpers.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\System.Web.Mvc.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\System.Web.Razor.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\System.Web.Webpages.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\System.Web.Razor.xml
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\System.Web.Webpages.xml
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\System.Web.Helpers.xml
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\System.Web.Mvc.xml
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\obj\Debug\MyFirstApp.csproj.AssemblyReference.cache
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\obj\Debug\MyFirstApp.csproj.CopyComplete
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\obj\Debug\MyFirstApp.dll
+C:\Users\vivek\source\repos\02.01. First Example\MyFirstApp\obj\Debug\MyFirstApp.pdb
